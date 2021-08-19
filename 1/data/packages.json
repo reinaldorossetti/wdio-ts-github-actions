@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "My Login application",
+    "children" : [ {
+      "name" : "should login with valid credentials",
+      "uid" : "9e6017561867d796",
+      "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629415517657,
+        "stop" : 1629415522203,
+        "duration" : 4546
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "fd4d605c2ff727b0",
+      "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629415526170,
+        "stop" : 1629415530492,
+        "duration" : 4322
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-91.0" ]
+    } ],
+    "uid" : "f43874cc36d1c5833cbb332fc53460ce"
+  } ],
+  "name" : "packages"
+}
